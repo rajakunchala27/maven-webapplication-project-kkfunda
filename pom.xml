@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://98.89.39.102:8081/repository/Jio-master/</url>
+	      <url>http://54.92.186.4:8081/repository/Jio-snap//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
